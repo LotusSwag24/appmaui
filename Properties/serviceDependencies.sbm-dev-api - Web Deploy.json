@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/sbmServerapi/apis/sbm-dev-mng-api",
+      "type": "apis.azure"
+    }
+  }
+}

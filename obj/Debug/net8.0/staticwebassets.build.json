@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Clilnin+vhuVoP0qHdC8fwg+dkJMJdDw6nk+NzLD9+U=",
+  "Source": "sbm.Server",
+  "BasePath": "_content/sbm.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
